@@ -49,6 +49,6 @@ Kaggle Dataset Download Link: https://www.kaggle.com/datasets/datasnaek/youtube-
 ## Project Scripts
 The scripts used in this project can be accessed below:
 
-Data Ingestion Script: [Upload Link]
-ETL Pipeline Script: [Upload Link]
-Dashboard Configuration Script: [Upload Link]
++ lambda_script-[lambda_function.py](https://github.com/santosh7569/-Etl-YouTube-data-analysis-project/blob/main/lambda_function.py)
++ aws_commandlineinterface-[s3_cli_command.sh](https://github.com/santosh7569/-Etl-YouTube-data-analysis-project/blob/main/s3_cli_command.sh)
++ pyspark_code-[pyspark_code.py](https://github.com/santosh7569/-Etl-YouTube-data-analysis-project/blob/main/pyspark_code.py)
