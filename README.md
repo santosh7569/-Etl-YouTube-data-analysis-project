@@ -44,7 +44,7 @@ The dataset used for this project is available here:
 Kaggle Dataset Download Link: https://www.kaggle.com/datasets/datasnaek/youtube-new?select=CAvideos.csv
 
 ## Architecture Diagram
-![architecture diagram]()
+![architecture diagram](architecture.jpeg)
 
 ## Project Scripts
 The scripts used in this project can be accessed below:
