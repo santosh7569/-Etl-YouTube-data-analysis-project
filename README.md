@@ -41,10 +41,10 @@ Dataset Source: Kaggle - YouTube Trending Data
 ## Dataset Access
 The dataset used for this project is available here:
 
-Kaggle Dataset Download Link: [Upload Link]
+Kaggle Dataset Download Link: https://www.kaggle.com/datasets/datasnaek/youtube-new?select=CAvideos.csv
 
 ## Architecture Diagram
-(Insert your architecture diagram here)
+![architecture diagram]()
 
 ## Project Scripts
 The scripts used in this project can be accessed below:
